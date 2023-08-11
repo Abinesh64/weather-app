@@ -1,4 +1,4 @@
-Application link:  https://comfy-kheer-47af36.netlify.app/
+Application link:  https://abinesh-weather-app.netlify.app
 
 Deployed on netlify.....
 
