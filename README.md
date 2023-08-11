@@ -1,3 +1,6 @@
+Application link:  https://comfy-kheer-47af36.netlify.app/
+Deployed on netlify.....
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
